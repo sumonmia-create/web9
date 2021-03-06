@@ -144,7 +144,7 @@ video{
 	border: none;
 }
 .search-area button i{
-	padding: 7.1px;
+	padding: 6.2px;
 	
 }
 /* main menu start here */
@@ -804,6 +804,7 @@ video{
 	border-radius: 50%;
 	width: 25px;
 	height: 25px;
+	color: green;
 }
 .bottom{
 	padding: 10px 
