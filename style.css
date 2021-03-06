@@ -375,14 +375,14 @@ video{
 	width: 100%;
 	height: 120px;
 	margin-top: 10px;
-	background-image: url(images/fb.png);
+	background-image: url(fb.png);
 	background-size: cover;
 	border-radius: 5px;
 }
 .img3{
 	width: 100%;
 	height: 310px;
-	background-image: url(images/17-10-17-40.jpg);
+	background-image: url(17-10-17-40.jpg);
 	background-size: cover;
 	border-radius: 5px;
 	transition: .9s;
@@ -391,7 +391,7 @@ video{
 .img4{
 	width: 100%;
 	height: 120px;
-	background-image: url(images/fb.png);
+	background-image: url(fb.png);
 	background-size: cover;
 	border-radius: 5px;
 	margin-top: 10px;
@@ -403,7 +403,7 @@ video{
 	width: 100%;
 	height: 180px;
 	margin-top: 10px;
-	background-image: url(images/24-10-17-41.jpg);
+	background-image: url(24-10-17-41.jpg);
 	background-size: cover;
 	border-radius: 5px;
 }
