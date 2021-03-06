@@ -84,7 +84,7 @@
 		position: relative;
 		margin-top: 6px;
 		border: none;
-		padding: 2.5px;
+		padding: 2.6px;
 		background: black;
 		color: #fff;
 		
@@ -98,9 +98,10 @@
 	}
 	.cata .car-area button i{
 		margin-top: 5px;
-		padding: 2.8px;
+		padding: 4.4px;
 		background: none;
 		color: #fff;
+		font-size: 15px;
 	
 	}
 	.cart-area{

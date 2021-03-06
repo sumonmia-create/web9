@@ -48,7 +48,7 @@ video{
 	left: 0;
 	bottom: 0;
 	right: 0;
-	
+	outline: 2px solid #764558;
 }
 .main1-menu ul li a:hover{
 	outline: 2px solid #764558;
@@ -70,7 +70,7 @@ video{
 	
 }
 .option-area select{
-	font-size: 12px;
+	font-size: 10px;
 	margin-top: 5px;
 	background: none;
 	border: none;
@@ -78,6 +78,7 @@ video{
 }
 .option-area select option{
 	background: none;
+	font-size: 12px;
 }
 .regi-area{
 	margin: 0;
@@ -153,7 +154,7 @@ video{
 	margin-top: 30px;
 	height: 45px;
 	border-radius: 5px;
-	position: sticky;
+	position: sticky !important;
 	top: 0;
 	z-index: 99;
 	
@@ -804,7 +805,6 @@ video{
 	border-radius: 50%;
 	width: 25px;
 	height: 25px;
-	color: green;
 }
 .bottom{
 	padding: 10px 
